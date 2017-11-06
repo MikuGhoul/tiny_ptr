@@ -1,7 +1,3 @@
-#include <iostream>
-#include <memory>
-#include <string>
-
 template <typename T>
 class tiny_ptr;
 
